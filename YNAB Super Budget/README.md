@@ -9,7 +9,7 @@ Now you can supercharge your YNAB budget with ChatGPT! No more manual categoriza
 ## Setup
 Get a YNAB Api Key
 Get YNAB Budget ID & Account ID (They are part of the URL) https://app.ynab.com/BUDGETID/accounts/ACCOUNTID
-Additional information
+
 Every transaction that this workflow modifies will be tagged with n8n and color yellow. You can easily review all changes by selecting just that tag.
 
 ![](./images/Screenshot%202025-08-14%20at%2021.02.07.png)
