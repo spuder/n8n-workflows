@@ -2,7 +2,6 @@
 
 ![](./images/Screenshot%202025-08-19%20at%2021.54.12.png)
 
-YNAB Super Budget
 Ever wish that Y.N.A.B was just a little smarter when auto-categorizing your transactions?
 
 Now you can supercharge your YNAB budget with ChatGPT! No more manual categorization.
